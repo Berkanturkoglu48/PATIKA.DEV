@@ -1,2 +1,2 @@
 # PATIKA.DEV
-Patikada.dev de yapıtğım örnekler.
+Patikada.dev de yaptığım örnekler.
